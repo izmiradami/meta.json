@@ -2,6 +2,6 @@
   "name": "izmiradamii",
   "website": "https://github.com/izmiradami",
   "description": "izmiradami",
-  "logo": "https://r.resimlink.com/QH-WAEM.png",
+  "logo": "eigenlayer operator register operator.yaml",
   "twitter": "https://twitter.com/izmirAdm"
 }
